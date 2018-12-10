@@ -10,10 +10,7 @@
     "invalidate"
   ],
   "license": "ISC",
-  "engines": {
-    "node": "^6.3.0",
-    "npm": "^3.10.3"
-  },
+
   "bin": {
     "aws-cloudfront-invalidate": "cli.js"
   },
